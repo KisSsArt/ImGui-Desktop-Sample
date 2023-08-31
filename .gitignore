@@ -32,3 +32,6 @@
 *.app
 
 .vs/
+Output/
+Release/
+Debug/
